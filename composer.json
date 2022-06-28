@@ -1,0 +1,21 @@
+{
+    "name": "alchakhvashvili/field-validator",
+    "description": "Field validator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alchakhvashvili\\FieldValidator\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleko Chakhvashvili",
+            "email": "alchakhvashvili@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    }
+}
